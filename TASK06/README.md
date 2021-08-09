@@ -1,4 +1,5 @@
 1.A screenshot of the console output immediately after you have successfully generated your Deposit Receiver Address.
+<img src="https://github.com/jcervante/CBKTASKs/blob/main/TASK06/img9.png"/>
 
 2.Your Deposit Receiver Address (in text format).<br>
 ckt1q3dz2p4mdrvp5ywu4kk5edl2uc4p03puvx07g7kgqdau3n3dmypkqnxzuefxyp9wdghglncj77k5wt6p59sx6kukyjlwh5s467qgp8m25yqqqqqsqqqqqvqqqqqfjqqqqrsjcsyjcw7j4tph8xs4kvex57l8647hu8ny9j4x4ppu2y74sru0k6gqqqqpqqqqqqcqqqqqxyqqqqx7asf60w8pqpte2sfcfn90fdfzxue7ff2g8sawe9wacnqat6jmygqngqqqqpxv9ejjvgz2u63w3l839aadguh5rgtqd4devf97a0fpt4uqsz0k4s48q4ktye0xg2a4zpeyeuv3rrdk95m3kq9rqgqqqqqqcq29nz2j
