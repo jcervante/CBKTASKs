@@ -1,4 +1,5 @@
 1.A screenshot of the console output immediately after running the withdraw command.
+<img src="https://github.com/jcervante/CBKTASKs/blob/main/TASK09/img10.png" />
 
 2.The Ethereum address that you've used for your Layer 2 account (in text format).<br>
 0xc2a7056cb265e642bb510724cf19118db62d371b
