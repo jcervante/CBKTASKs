@@ -1,4 +1,13 @@
 1.Screenshots or video of your application running on Godwoken.
+->Deploying contract
+<img src="https://github.com/jcervante/CBKTASKs/blob/main/TASK07/screenshots/img2.png">
+<img src="https://github.com/jcervante/CBKTASKs/blob/main/TASK07/screenshots/img4.png">
+->Make a donation 
+<img src="https://github.com/jcervante/CBKTASKs/blob/main/TASK07/screenshots/img5.png">
+<img src="https://github.com/jcervante/CBKTASKs/blob/main/TASK07/screenshots/img8.png">
+->Withdraw balance
+<img src="https://github.com/jcervante/CBKTASKs/blob/main/TASK07/screenshots/img9.png">
+<img src="https://github.com/jcervante/CBKTASKs/blob/main/TASK07/screenshots/img10.png">
 
 2.Link to the GitHub repository with your application which has been ported to Godwoken. This must be a different application than the one covered in this guide.
 
