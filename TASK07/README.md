@@ -9,8 +9,8 @@
 <img src="https://github.com/jcervante/CBKTASKs/blob/main/TASK07/screenshots/img9.png">
 <img src="https://github.com/jcervante/CBKTASKs/blob/main/TASK07/screenshots/img10.png">
 
-2.Link to the GitHub repository with your application which has been ported to Godwoken. This must be a different application than the one covered in this guide.
-
+2.Link to the GitHub repository with your application which has been ported to Godwoken. This must be a different application than the one covered in this guide.<br>
+https://github.com/jcervante/AppTask09Gitcoin <br><br>
 3.If you deployed any smart contracts as part of this tutorial, please provide the transaction hash of the deployment transaction, the deployed contract address, and the ABI of the deployed smart contract. (Provide all in text format.)
 
   -Deploy transaction hash:<b>0x70164bc23855bb703f6dc313aa53e04f80464db30f887684c67c52a7d871148f </b><br><br>
