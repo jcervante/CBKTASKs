@@ -1,5 +1,5 @@
 <h2>1.A screenshot or video of your EVM application on Layer 2 with Force Bridge support.</h2>
-Sending 0.001 ckETH
+Sending 0.0001 ckETH
 <div align="text-center">
 <img src="https://github.com/jcervante/CBKTASKs/blob/main/TASK08/img1.png" width="40%"/>
 <img src="https://github.com/jcervante/CBKTASKs/blob/main/TASK08/img2.png" width="40%"/>
