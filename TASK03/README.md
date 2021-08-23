@@ -11,27 +11,28 @@
     
 4.The ABI for contract you made a call on (in text format). 
 
-[ {
+[
+    {
       "inputs": [],
       "stateMutability": "payable",
       "type": "constructor"
     },
     {
-      "inputs": [
+      "inputs": [],
+      "name": "owner",
+      "outputs": [
         {
-          "internalType": "uint256",
-          "name": "x",
-          "type": "uint256"
+          "internalType": "address payable",
+          "name": "",
+          "type": "address"
         }
       ],
-      "name": "set",
-      "outputs": [],
-      "stateMutability": "payable",
+      "stateMutability": "view",
       "type": "function"
     },
     {
       "inputs": [],
-      "name": "get",
+      "name": "getBalance",
       "outputs": [
         {
           "internalType": "uint256",
@@ -41,7 +42,25 @@
       ],
       "stateMutability": "view",
       "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "uint256",
+          "name": "amount",
+          "type": "uint256"
+        }
+      ],
+      "name": "makeDonation",
+      "outputs": [],
+      "stateMutability": "payable",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "withdrawBalance",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
     }
   ]
-   
- 
