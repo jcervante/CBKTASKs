@@ -5,10 +5,10 @@
 <a href="https://explorer.nervos.org/aggron/address/ckt1qyqy503lzj2c7mxxkqa0v0v0805vwhk4hw9qm9gxkt">ckt1qyqy503lzj2c7mxxkqa0v0v0805vwhk4hw9qm9gxkt</a>
 
 <h3>3.A screenshot of the console output immediately after you have successfully submitted a CKByte deposit to your Tron account on Layer 2.</h3>
-<img src="https://github.com/jcervante/CBKTASKs/blob/main/TASK12/img1.png"/>
+<img src="https://github.com/jcervante/CBKTASKs/blob/main/TASK11/img1.png"/>
 
 <h3>4.A screenshot of the console output immediately after you have successfully issued a smart contract calls on Layer 2.</h3>
-<img src="https://github.com/jcervante/CBKTASKs/blob/main/TASK12/img2.png"/>
+<img src="https://github.com/jcervante/CBKTASKs/blob/main/TASK11/img2.png"/>
 
 <h3>5.The transaction hash of the "Contract call" from the console output (in text format).</h3>
 0x659298b630520f948b46b0ad2301cf467707ec007f37fb3d4c633fe6bc7c7caa <br>
